@@ -7,5 +7,7 @@ _LarahorseNet_ ist eine Webanwendung und benötigt zum Benutzen nur einen Browse
 
 Als Test und Demoprogramm implementiert _LarahorseNet_ das Programm _Stall_. Ein Programm zur Verwaltung von Pferdeställe und Pferdestallbetrieben.
 
+
 --
+
 rkruggel, April 2021
